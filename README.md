@@ -1,20 +1,20 @@
 # CH37Colaborar
-    Este es un repositorio elaborado durante el bootcamp de Generation México para la demostracíon del uso de las herramientas de control de versiones:
+Este es un repositorio elaborado durante el bootcamp de Generation México para la demostracíon del uso de las herramientas de control de versiones:
 
-    * Git
-    * Github
+* Git
+* Github
 
-    ## Equipo:
+## Equipo:
 
-    El equipo de desarrollo para este ejericicio esta conformado por:
+El equipo de desarrollo para este ejericicio esta conformado por:
 
-    ### Equipo de instrucción
+### Equipo de instrucción
 
-     * JC Valencia
+* JC Valencia
     
-    ### Participantes
+### Participantes
 
-    * Balam Alcaraz
-    * Diana Fernández
-    * Cristian Espejel
-    * Edgar Gonzalez  
+* Balam Alcaraz
+* Diana Fernández
+* Cristian Espejel
+* Edgar Gonzalez  
